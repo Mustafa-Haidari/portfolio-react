@@ -1,0 +1,8 @@
+.header {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 2rem;
+    background-color: green;
+    max-width: 1200px;
+    margin: auto;
+}
